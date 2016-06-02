@@ -1,0 +1,28 @@
+[] Test cases:
+
+0] Select the add button, a log in form will appear.
+ Enter user id: "asina" and password : "java" [No double quotes]
+	Since Adrian Sina is not a admin, he can only search and view reviews
+ Enter user id: "mkelly" and password : "lava" [No double quotes]
+        	Since Mkelly is  a admin, she can add,update or delete
+
+1] Search :
+    Enter zip : 98402 and cuisine : American
+    Enter zip :98402 and cuisine : Thai
+
+2] Add :
+ Select a row and select the Add Restaurant button, a form will appear.
+ Enter Values and select ok. 
+
+3]Delete:
+ Select a row and select the delete button, a log in form will appear.
+ Enter user id: "chuckb" and password : "java" [No double quotes]
+        	Since chuckb is  a admin, he can delete.
+4]Update :
+ Select a row and select the update button, a form will appear.
+ Enter Value and select ok.
+
+5] View Review 
+
+ Select a row and select the view review button, the reviews of different 
+ users for that restaurant will appear

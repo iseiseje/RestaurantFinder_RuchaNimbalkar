@@ -1,0 +1,25 @@
+Read Me :
+
+
+1] Establishing the connection is necessary for the database. Please copy
+   the user name and password in all the files that establish the connection.
+   They are rest.java, restdao.java, userdao.java.
+	type in user and root password for your mysql to establish connection 
+    and save the files.
+
+2] Save the database. Run Database.sql
+
+3] Right click restaurantfinderadmin.java file and run as java program
+4] Make sure you have all the libraries and jar files added to the library 
+   and 
+   class path.
+5] The password is java/lava. Only admin can add, update or delete.
+    user:asina
+    password:java
+    admin:mkelly
+    password:lava.
+It strictly takes string value for name,cuisine ,address, int value for zip and id
+ or double value for rating.		
+
+
+   
